@@ -1,0 +1,59 @@
+#kit {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: #0a0a0a;
+    background-color: #eae5e5;
+    padding: 20px;
+}
+
+/* Button styles */
+#start {
+    background-color: #11ea40;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#stop
+{
+    background-color: #de0910;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#reset
+{
+    background-color: #4718b6;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#btns{
+    text-align: center;
+    padding-top: 30px;
+    background-color: rgba(230, 228, 228, 0.699);
+    height: 250px;
+}
+#btns button:hover{
+    border: 1px solid black;
+    font-size: 19px;
+}
